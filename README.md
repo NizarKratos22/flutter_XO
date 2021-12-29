@@ -1,4 +1,4 @@
-# xo
+# Flutter XO Game
 
 its just an xo basic game to test my skills with dart language so yeah .
 
